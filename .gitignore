@@ -1,7 +1,9 @@
 CMakeCache.txt
 cmake_install.txt
+cmake_install.cmake
+.gitignore
 .idea/
 .cache/
-
+Makefile
 CMakeFiles/
 compile_commands.json
